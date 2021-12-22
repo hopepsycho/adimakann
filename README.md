@@ -22,7 +22,7 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://heroku.com/deploy?template=https://github.com/hopepsycho/adimakann/tree/master")
 
 
 #### The Legacy Way
