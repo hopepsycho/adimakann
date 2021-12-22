@@ -22,7 +22,16 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 #### The Easy Way
 
-[![Deploy](https://heroku.com/deploy?template=https://github.com/hopepsycho/adimakann/tree/master")
+## Deploy
+You can deploy this bot anywhere.
+
+<i>**[Watch Deploying Tutorial...](https://youtu.be/vkkZs6t_DZo)**</i>
+
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/hopepsycho/adimakann/tree/master">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
 
 #### The Legacy Way
